@@ -1,7 +1,7 @@
-# 📍 TagApp (Spottr) — Real-Time Proximity Social Discovery Platform
+# 📍 TagApp  — Real-Time  Social Discovery Platform
 
 <p align="center">
-  <img src="assets/image/appLogo.png" alt="TagApp Logo" width="110" style="border-radius: 22px;"/>
+  <img src="Logo.png" alt="TagApp Logo" width="110" style="border-radius: 22px;"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 📌 Executive Summary
 
-**TagApp** (also branded as **Spottr**) is a cutting-edge hyper-local mobile application designed to
+**TagApp**  is a cutting-edge hyper-local mobile application designed to
 foster spontaneous, real-world networking at conferences, coworking hubs, cafes, and social events.
 The app detects nearby users within a strict **50-meter radius** using background location tracking
 and the Haversine distance algorithm.
@@ -65,7 +65,7 @@ confidentiality until both parties choose to engage.
 
 ## 📱 Visual Showcase & UI Gallery
 
-### 🎨 1. Client Redesign Showcase (Spottr Flagship UI)
+### 🎨 1. Client Redesign Showcase 
 
 *The updated, modern UI/UX redesign requested by the client, featuring sleek glassmorphism, refined
 radar indicators, and intuitive onboarding:*
@@ -207,11 +207,6 @@ To run this project locally, follow these steps:
 
 ### 2. Clone the Repository
 
-```bash
-git clone https://github.com/iamsaklenkhan/tagapp.git
-cd tagapp
-```
-
 ### 3. Install Dependencies
 
 ```bash
@@ -252,13 +247,13 @@ services, and intuitive UI/UX.
   Riverpod).
 
 <p align="center">
-  <a href="mailto:saklenkhan000@gmail.com">
+  <a href="mailto:saklenkhan501@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/iamsaklenkhan">
     <img src="https://img.shields.io/badge/GitHub-iamsaklenkhan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/saklen-khan-flutter-developer">
     <img src="https://img.shields.io/badge/https://www.linkedin.com/in/saklen-khan-flutter-developer/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
